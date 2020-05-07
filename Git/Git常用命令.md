@@ -44,6 +44,6 @@
 
 ---
 
-![Git](../Git/images/Git使用.webp)
+![Git](images/Git使用.webp)
 
-![Git](../Git/images/Git命令.webp)
+![Git](images/Git命令.webp)
