@@ -44,6 +44,6 @@
 
 ---
 
-![Git](https://upload-images.jianshu.io/upload_images/18087435-2b52aaf65be47442.jpg?imageMogr2/auto-orient/strip|imageView2/2/w/999/format/webp)
+![Git](/images/Git使用.webp)
 
-![Git](https://upload-images.jianshu.io/upload_images/18087435-bf2a996ef50a21b0.jpg?imageMogr2/auto-orient/strip|imageView2/2/w/1000/format/webp)
+![Git](/images/Git命令.webp)
