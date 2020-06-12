@@ -1,1 +1,10 @@
-2020-06-13 05:17:33
+2020-06-13 06:21:53,882 INFO [com.hacra.note.utils.FileUtils] - 复制文件：F:\Note\theme.css
+2020-06-13 06:21:53,903 INFO [com.hacra.note.utils.FileUtils] - 复制文件：F:\Note\markdown.css
+2020-06-13 06:21:53,903 INFO [com.hacra.note.utils.FileUtils] - 复制文件：F:\Note\index.html
+2020-06-13 06:21:53,904 INFO [com.hacra.note.utils.FileUtils] - 复制文件：F:\Note\img.png
+2020-06-13 06:21:53,904 INFO [com.hacra.note.utils.NoteUtils] - 上次编译时间：1970-01-01 08:00:00
+2020-06-13 06:21:53,926 INFO [com.hacra.note.utils.FileUtils] - 读取文件：F:\Note\Git\Git常用命令 (2).md
+2020-06-13 06:21:53,940 INFO [com.hacra.note.utils.FileUtils] - 生成文件：F:\Note\Git\Git常用命令 (2).html
+2020-06-13 06:21:53,941 INFO [com.hacra.note.utils.FileUtils] - 读取文件：F:\Note\Git\Git常用命令.md
+2020-06-13 06:21:53,944 INFO [com.hacra.note.utils.FileUtils] - 生成文件：F:\Note\Git\Git常用命令.html
+2020-06-13 06:21:53,947 INFO [com.hacra.note.utils.FileUtils] - 生成文件：F:\Note\catalog.html
