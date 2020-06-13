@@ -1,4 +1,0 @@
-2020-06-13 20:16:59,156 INFO [com.hacra.note.utils.FileUtils] - 读取文件：F:\Note\bin\..\note.log
-2020-06-13 20:16:59,176 INFO [com.hacra.note.utils.NoteUtils] - 上次编译时间：2020-06-13 19:24:08
-2020-06-13 20:16:59,195 INFO [com.hacra.note.utils.FileUtils] - 读取文件：F:\Note\bin\static\template\index.html
-2020-06-13 20:16:59,197 INFO [com.hacra.note.utils.FileUtils] - 生成文件：F:\Note\bin\..\index.html
