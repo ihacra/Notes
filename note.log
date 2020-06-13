@@ -1,8 +1,4 @@
-2020-06-13 19:24:08,391 INFO [com.hacra.note.utils.FileUtils] - 复制文件：F:\Note\bin\static\style\theme.css -> F:\Note\bin\..\theme.css
-2020-06-13 19:24:08,410 INFO [com.hacra.note.utils.FileUtils] - 复制文件：F:\Note\bin\static\style\markdown.css -> F:\Note\bin\..\markdown.css
-2020-06-13 19:24:08,411 INFO [com.hacra.note.utils.FileUtils] - 复制文件：F:\Note\bin\static\images\img.png -> F:\Note\bin\..\img.png
-2020-06-13 19:24:08,412 INFO [com.hacra.note.utils.NoteUtils] - 上次编译时间：1970-01-01 08:00:00
-2020-06-13 19:24:08,433 INFO [com.hacra.note.utils.FileUtils] - 读取文件：F:\Note\bin\..\Git\Git常用命令.md
-2020-06-13 19:24:08,446 INFO [com.hacra.note.utils.FileUtils] - 生成文件：F:\Note\bin\..\Git\Git常用命令.html
-2020-06-13 19:24:08,447 INFO [com.hacra.note.utils.FileUtils] - 读取文件：F:\Note\bin\static\template\index.html
-2020-06-13 19:24:08,448 INFO [com.hacra.note.utils.FileUtils] - 生成文件：F:\Note\bin\..\index.html
+2020-06-13 20:16:59,156 INFO [com.hacra.note.utils.FileUtils] - 读取文件：F:\Note\bin\..\note.log
+2020-06-13 20:16:59,176 INFO [com.hacra.note.utils.NoteUtils] - 上次编译时间：2020-06-13 19:24:08
+2020-06-13 20:16:59,195 INFO [com.hacra.note.utils.FileUtils] - 读取文件：F:\Note\bin\static\template\index.html
+2020-06-13 20:16:59,197 INFO [com.hacra.note.utils.FileUtils] - 生成文件：F:\Note\bin\..\index.html
