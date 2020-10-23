@@ -1,4 +1,4 @@
-<html><head><title>1、Git常用命令</title><link rel='stylesheet' type='text/css' href='..\markdown.css'></head><body><div id='write'><h1>提交代码</h1>
+<html><head><title>1、Git常用命令</title><link rel='stylesheet' type='text/css' href='..\markdown.css'></head><body><div id='write'><h2>提交代码</h2>
 <ol>
 <li><code>git status</code>：查看当前状态</li>
 <li><code>git add .</code>：添加到本地缓冲区</li>
@@ -6,7 +6,7 @@
 <li><code>git pull origin master</code>：拉取远程的更新</li>
 <li><code>git push origin master</code>：提交至远程仓库</li>
 </ol>
-<h1>更新代码</h1>
+<h2>更新代码</h2>
 <ol>
 <li><code>git remote -v</code>：查看远程分支</li>
 <li><code>git fetch origin master:temp</code>：获取远程最新版本至本地temp分支中</li>
@@ -14,20 +14,20 @@
 <li><code>git merge temp</code>：合并temp分支至本地仓库</li>
 <li><code>git branch -d temp</code>：删除本地temp分支</li>
 </ol>
-<h1>覆盖代码</h1>
+<h2>覆盖代码</h2>
 <ol>
 <li><code>git fetch --all</code>：拉取远程仓库所有更新</li>
 <li><code>git reset --hard origin/master</code>：覆盖本地仓库同名内容</li>
 <li><code>git pull origin master</code>：拉取远程的更新</li>
 </ol>
-<h1>查看日志</h1>
+<h2>查看日志</h2>
 <ol>
 <li><code>git log</code>：查看所有日志</li>
 <li><code>git log -n</code>：查看最近n条日志</li>
 <li><code>git shortlog</code>：查看提交过的用户及次数注释</li>
 <li><code>git shortlog -sn</code>：查看提交过的用户次数并排序</li>
 </ol>
-<h1>远程地址</h1>
+<h2>远程地址</h2>
 <ol>
 <li><code>git remote -v</code>：查看远程仓库名称</li>
 <li><code>git remote get-url origin</code>：获取关联的远程仓库地址</li>
@@ -35,7 +35,7 @@
 <li><code>git remote rm origin</code>：删除本地仓库关联的远程仓库</li>
 <li><code>git remote add origin https://.../xxx.git</code>：添加新的远程仓库地址</li>
 </ol>
-<h1>配置账户</h1>
+<h2>配置账户</h2>
 <ol>
 <li><code>git config user.name</code>：查看用户名</li>
 <li><code>git config user.email</code>：查看邮箱</li>
